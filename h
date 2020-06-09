@@ -23,6 +23,10 @@ public:
 public slots:
 	void OnBtnBingJiangClicked();
 	void OnBtnBeiJingClicked();
+	void OnBtnGetClicked();
+	void OnBtnChangeClicked();
+	void OnBtnSavePicClicked();
+	void OnBtnOpenKMLClicked();
 
 protected:
 	virtual void resizeEvent(QResizeEvent* event);
