@@ -81,15 +81,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="earthlib.cpp" />
-    <ClCompile Include="GoogleEarth.cpp" />
+    <ClCompile Include="GoogleEarthDemo.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="earthlib.h" />
-    <QtMoc Include="GoogleEarth.h" />
+    <QtMoc Include="GoogleEarthDemo.h" />
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="GoogleEarth.ui" />
+    <QtUic Include="GoogleEarthDemo.ui" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

@@ -27,7 +27,7 @@
     <ClCompile Include="earthlib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GoogleEarth.cpp">
+    <ClCompile Include="GoogleEarthDemo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -37,12 +37,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <QtMoc Include="GoogleEarth.h">
+    <QtMoc Include="GoogleEarthDemo.h">
       <Filter>Source Files</Filter>
     </QtMoc>
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="GoogleEarth.ui">
+    <QtUic Include="GoogleEarthDemo.ui">
       <Filter>Source Files</Filter>
     </QtUic>
   </ItemGroup>

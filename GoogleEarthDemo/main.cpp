@@ -1,5 +1,5 @@
 #include <QApplication>
-#include "GoogleEarth.h"
+#include "GoogleEarthDemo.h"
 
 int main(int argc, char *argv[])
 {
