@@ -1,0 +1,10 @@
+1.google earth 版本太高 安装之后 没有com控件
+用低版本的google earth （eg. 7.1X）  安装之后有com控件（google earth 1.0 Type Library）
+2.vs2019 提示 没有找到AxImp.exe  Microsoft visual SDK  组件安装错误
+安装vs2010解决
+
+
+1.REGDB_E_CLASSNOTREG Class not registered
+程序重新安装  GoogleEarth_7.1.2.2041.exe   目前看来 还是版本不对
+
+2.E_NOINTERFACE No such interface supported
